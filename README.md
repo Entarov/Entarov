@@ -1,4 +1,8 @@
 ## Hi there 👋
+Welcome to my GitHub repository! 🎉 This is where I document my journey in learning **Machine Learning ** and improving my skills in **Python programming**.
+
+## About Me
+I am a passionate learner diving into the exciting world of machine learning. With a foundation in Python, I aim to explore various ML concepts, tools, and applications, while sharing my projects and insights with the community.
 
 <!--
 **Entarov/Entarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
